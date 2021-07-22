@@ -8,7 +8,8 @@
 import UIKit
 
 class ViewController: UIViewController {
-
+    
+    var crib = "C-R-I-B"
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
