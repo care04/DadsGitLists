@@ -9,6 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
+    //baby things
     var cry = "C-R-Y"
     var crib = "C-R-I-B"
     override func viewDidLoad() {
